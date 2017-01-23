@@ -4,6 +4,7 @@ This course will introduce the learner to the basics of the python programming e
 
 This course is number 1 in the Applied Data Science with Python specialization and should be taken before any other courses in the specialization.
 
+https://www.coursera.org/learn/python-data-analysis/home/info
 
 ## Packages used:
 ``` 
